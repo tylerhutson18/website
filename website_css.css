@@ -1,0 +1,30 @@
+body {
+    background-color: #b2cecf;
+}
+
+h1 {
+    color: #003399;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: ;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-size: 24px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+p {
+    font-family: ;
+    font-size: 15px;
+    text-align: justify;
+    text-align: center;
+}
+
+a:link, a:visited {
+        color: blueviolet;
+        text-decoration: none;
+}
